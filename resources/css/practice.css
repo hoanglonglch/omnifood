@@ -1,0 +1,7 @@
+/*Why should we add this css selector*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: red;
+}
